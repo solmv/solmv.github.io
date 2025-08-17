@@ -9,3 +9,5 @@ Love U,
 Sol MV
 
 ps. A mobile version is in development.
+
+solmv.github.io
